@@ -80,7 +80,7 @@ Zentry is a stunning gaming-themed website designed to immerse users in a virtua
    npm run dev
    ```
 
-   This will start the Vite development server and you should see the application running at [http://localhost:5173](http://localhost:3000).
+   This will start the Vite development server and you should see the application running at [http://localhost:5173](http://localhost:5173).
 
 ---
 
