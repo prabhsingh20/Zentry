@@ -4,7 +4,7 @@ Zentry is an animated gaming website that pushes the boundaries of frontend deve
 
 ## Preview
 
-Check out the [https://zentry-lake.vercel.app/](#) to experience the magic in action.
+Check out the [live demo](https://zentry-lake.vercel.app/) to experience the magic in action.
 
 ## Table of Contents
 
